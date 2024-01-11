@@ -1,0 +1,80 @@
+@font-face {
+    font-family: 'From the Woods';
+    src: url('/graphics/FromtheWoods-Regular.woff2') format('woff2'),
+        url('/graphics/FromtheWoods-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+
+}
+
+* {
+    margin: auto;
+    color: white;
+    background-color: gray;
+
+}
+
+.bubbles__nature {
+    height: 350px;
+    width: 350px;
+    background-color: #4F6A13;
+    border-radius: 50%;
+    text-align: center;
+    overflow: hidden;
+
+}
+
+.bub1 {
+    position: relative;
+    top: 10px;
+}
+
+.bub2 {
+    position: relative;
+    top: 10px;
+}
+
+.bub3 {
+
+    position: relative;
+    top: 10px;
+
+}
+
+.bubbles__mind {
+    height: 350px;
+    width: 350px;
+    background-color: #4F6A13;
+    border-radius: 50%;
+    text-align: center;
+    overflow: hidden;
+    float: right;
+}
+
+.bubbles__community {
+    height: 350px;
+    width: 350px;
+    background-color: #4F6A13;
+    border-radius: 50%;
+    text-align: center;
+    overflow: hidden;
+}
+
+* {
+    font-family: 'Open Sans', Times, serif;
+}
+
+h1 {
+    font-family: 'From the Woods';
+}
+
+footer {
+    background-color: #2D4823;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
